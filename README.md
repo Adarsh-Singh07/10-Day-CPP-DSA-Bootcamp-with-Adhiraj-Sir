@@ -29,4 +29,4 @@ Together, let's conquer the world of programming! 💻🚀
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adarsh-Singh07/10-Day-CPP-DSA-Bootcamp-with-Adhiraj.git
+   git clone https://github.com/Adarsh-Singh07/10-Day-CPP-DSA-Bootcamp-with-Adhiraj-Sir.git
